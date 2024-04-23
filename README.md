@@ -28,3 +28,35 @@ python my_flask.py
 Access the Website:
 Open a web browser and navigate to http://127.0.0.1.
 The website should load and be accessible locally.
+
+
+
+DCC Assignment 
+ 1e1 
+  
+ 
+ 
+ 
+ 
+ 
+1e2 
+ 
+   
+1e3
+   
+  
+ 	  
+ 
+1e4
+   
+ 
+1e5
+   
+ 
+ 	  
+ 
+
+
+
+
+
