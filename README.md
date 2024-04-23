@@ -32,27 +32,28 @@ The website should load and be accessible locally.
 
 
 DCC Assignment 
- 1e1 
+ 1e1   Bond Number -1118
   
+ <img width="1440" alt="Screenshot 2024-04-23 at 5 34 04 PM" src="https://github.com/Chaitanya140904/DCC_assignment-/assets/154114491/f90ab721-3a90-4c04-8f1c-362596a830e0">
  
  
  
  
- 
-1e2 
- 
-   
-1e3
+1e2 Company Name – SHANKARNARAYANA CONSTRUCTIONS LIMITED
+
+<img width="1440" alt="Screenshot 2024-04-23 at 5 35 33 PM" src="https://github.com/Chaitanya140904/DCC_assignment-/assets/154114491/0dbbc6e6-6d90-46d0-afda-2a703c5322be">
+
+1e3 PARTY NAME – BHARTIYA JANATA PARTY
    
-  
+<img width="1440" alt="Screenshot 2024-04-23 at 5 37 59 PM" src="https://github.com/Chaitanya140904/DCC_assignment-/assets/154114491/14c0360a-812d-424c-9a9d-c90a4b67399a">
  	  
  
-1e4
-   
+1e4 PARTY NAME - – BHARTIYA JANATA PARTY
+ <img width="1440" alt="Screenshot 2024-04-23 at 5 38 09 PM" src="https://github.com/Chaitanya140904/DCC_assignment-/assets/154114491/4fdc1adf-3ce0-4c13-949b-cff616c58c36">  
  
-1e5
+1e5 nameofthecompany-AJITKUMARJAIN
    
- 
+<img width="1440" alt="Screenshot 2024-04-23 at 5 39 14 PM" src="https://github.com/Chaitanya140904/DCC_assignment-/assets/154114491/da3de66a-363a-45a4-9fcf-a6c86af7c174"> 
  	  
  
 
